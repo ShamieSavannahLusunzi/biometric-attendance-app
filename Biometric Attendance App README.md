@@ -14,7 +14,7 @@ This was an academic assignment for my CS 4405 Mobile Applications course. I des
 
 **Note:** This was a GUI prototype completed on Replit. I do not have an iOS device, so the app was not deployed. Code and screenshots demonstrate the functionality.
 
-**What's included:**
+**Included in the PDF:**
 - Swift code files
 - Screenshots of all interfaces
-- Assignment description (PDF)
+- Assignment description 
